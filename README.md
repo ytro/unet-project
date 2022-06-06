@@ -1,5 +1,5 @@
 ## U-Net: Convolutional Networks for Biomedical Image Segmentation
-AI project done fully in solo for an advanced AI class of fourth year of engineering.  
+AI project done fully in solo for an AI class in fourth/final year of engineering.  
 Implements a U-Net architecture from scratch for visual segmentation on the Pascal VOC dataset   
 The [final submission (Analysis.pdf)](Analysis.pdf) is available is also provided in this repo, it is however written in French
 
